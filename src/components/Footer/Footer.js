@@ -7,7 +7,7 @@ const Footer = () => {
         <div className=" flex justify-center items-center py-6">
           <div className="flex gap-4 bg-[#252525] p-4 rounded-full">
             <a
-              href="#"
+              href="https://x.com/"
               className="w-10 h-10 flex justify-center items-center bg-black rounded-full hover:bg-gray-700 transition"
               aria-label="Twitter"
             >
@@ -26,7 +26,7 @@ const Footer = () => {
               </span>
             </a>
             <a
-              href="#"
+              href="https://substack.com/"
               className="w-10 h-10 flex justify-center items-center bg-black rounded-full hover:bg-gray-700 transition"
               aria-label="Substack"
             >
@@ -44,7 +44,7 @@ const Footer = () => {
               </span>
             </a>
             <a
-              href="#"
+              href="https://instagram.com/"
               className="w-10 h-10 flex justify-center items-center bg-black rounded-full hover:bg-gray-700 transition"
               aria-label="Instagram"
             >
@@ -62,7 +62,7 @@ const Footer = () => {
               </span>
             </a>
             <a
-              href="#"
+              href="https://email.com/"
               className="w-10 h-10 flex justify-center items-center bg-black rounded-full hover:bg-gray-700 transition"
               aria-label="Email"
             >

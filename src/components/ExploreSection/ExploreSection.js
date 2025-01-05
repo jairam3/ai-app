@@ -21,7 +21,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/miUkjO0F10TK2w2DytyG090Y6k.svg" />
+                  <img src="https://framerusercontent.com/images/miUkjO0F10TK2w2DytyG090Y6k.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -33,7 +33,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/NHtpHtNQNd8tgebdIJNCnojEw.svg" />
+                  <img src="https://framerusercontent.com/images/NHtpHtNQNd8tgebdIJNCnojEw.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -45,7 +45,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/FQnpvOciw6pGUK3mINdhhJ4aQ.svg" />
+                  <img src="https://framerusercontent.com/images/FQnpvOciw6pGUK3mINdhhJ4aQ.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -57,7 +57,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/tqFI5t1zP6qs9n1XLh1z0dFFAE.svg" />
+                  <img src="https://framerusercontent.com/images/tqFI5t1zP6qs9n1XLh1z0dFFAE.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -69,7 +69,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/hP2o4RYg9qwfgclnNChU38RJ8g.svg" />
+                  <img src="https://framerusercontent.com/images/hP2o4RYg9qwfgclnNChU38RJ8g.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -80,7 +80,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/QR25qAhdZwCrqOOvevQlkbafOs.svg" />
+                  <img src="https://framerusercontent.com/images/QR25qAhdZwCrqOOvevQlkbafOs.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -92,7 +92,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/yIboqy9mWg41YQ7j3hCmc0ZWld0.svg" />
+                  <img src="https://framerusercontent.com/images/yIboqy9mWg41YQ7j3hCmc0ZWld0.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -104,7 +104,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/1PtFfexdx0Y4mwYpDHOO6EEjZk.svg" />
+                  <img src="https://framerusercontent.com/images/1PtFfexdx0Y4mwYpDHOO6EEjZk.svg" alt="commond"/>
                 </p>
               </div>
             </div>
@@ -116,7 +116,7 @@ const ExploreSection = () => {
               />
               <div className="p-4">
                 <p className="text-gray-800 font-bold text-lg">
-                  <img src="https://framerusercontent.com/images/hFZ6yJavw0PgLAy5YYmIXBCbkaA.svg" />
+                  <img src="https://framerusercontent.com/images/hFZ6yJavw0PgLAy5YYmIXBCbkaA.svg" alt="commond"/>
                 </p>
               </div>
             </div>

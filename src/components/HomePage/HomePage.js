@@ -7,7 +7,7 @@ const HomePage = () => {
       <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8">
         <nav className="flex items-center justify-between w-full px-4 py-3">
           <div className="w-10 h-10 absolute top-7 left-4 sm:left-10">
-            <img className="text-white font-bold" src={logo} alt="logo" />
+            <img className="text-white font-bold" src={logo}/>
           </div>
           <div className="absolute top-7 right-4 sm:right-10 bg-white text-black font-sans font-semibold py-2 px-4 sm:px-9 rounded-full shadow-md hover:bg-gray-200 transition">
             <button className="font-bold text-sm sm:text-base">
@@ -55,7 +55,6 @@ const HomePage = () => {
             <button className="flex items-center mb-4 sm:mb-0 px-4 py-2 bg-[#262424] text-white rounded-md shadow text-xs font-semibold cursor-pointer">
               <img
                 src="https://framerusercontent.com/images/YOaEOJvv8az10PzU8YOeFo2Xa8.svg"
-                alt="Upload Image"
                 className="h-6 object-cover rounded-md"
               />
               <p className="text-sm font-semibold text-gray-400 px-2">
